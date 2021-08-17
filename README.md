@@ -6,3 +6,5 @@ Zdjęcie poniżej przedstawia wywołanie czterech przykładowych klatek, wraz z 
 zaimplementowanego modelu oraz z punktami zbioru walidacyjnego - OpenPose.
 
 ![predykcja](https://user-images.githubusercontent.com/58743872/129804204-b382cd0c-54cc-4612-b56d-ffa256c7ee43.png)
+
+(Na Githubie został umieszczony sam kod, bez całkowitego działania aplikacji, ponieważ nie mam zgody na publiczne udostępnianie wizerunku pacjentów).
